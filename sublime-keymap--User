@@ -1,0 +1,10 @@
+[
+	{ "keys": ["ctrl+alt+enter"], "command": "alignment" },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys" : ["ctrl+shift+x"], "command": "toggle_word"},
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["ctrl+alt+t"], "command": "open_terminal" },
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+]
