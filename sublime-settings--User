@@ -1,0 +1,16 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_delay": 10,
+	"auto_complete_selector": "source, text",
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/brogrammer (SL).tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "selection",
+	"find_selected_text": true,
+	"font_size": 11,
+	"tab_completion": true,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

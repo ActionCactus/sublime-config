@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"GitGutter",
+		"Google Search",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PHPUnit Completions",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeHighlight",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd",
+		"Sublimerge 3",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Toggle Words",
+		"Xdebug Client"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}
