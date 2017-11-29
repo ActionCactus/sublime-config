@@ -12,5 +12,9 @@
 	"font_size": 11,
 	"tab_completion": true,
 	"theme": "Adaptive.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"auto_complete_cycle": true,
+	"bold_folder_labels": true,
 }
