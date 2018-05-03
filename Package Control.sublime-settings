@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"CodeFormatter",
 		"DocBlockr",
 		"DocBlockr_with_update_capability",
 		"GitGutter",
