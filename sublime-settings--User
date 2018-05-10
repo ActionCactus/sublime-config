@@ -15,6 +15,7 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"tab_completion": true,
 	"theme": "Adaptive.sublime-theme",
