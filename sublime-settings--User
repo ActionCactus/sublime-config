@@ -17,7 +17,7 @@
 	[
 	],
 	"tab_completion": true,
-	"theme": "Brogrammer.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
