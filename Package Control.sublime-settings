@@ -5,14 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
 		"CodeFormatter",
-		"DocBlockr",
 		"DocBlockr_with_update_capability",
 		"GitGutter",
 		"Google Search",
 		"Package Control",
-		"PHP Getters and Setters",
 		"PHPUnit Completions",
 		"SFTP",
 		"SublimeCodeIntel",
@@ -21,7 +18,6 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpmd",
 		"Sublimerge 3",
-		"Terminal",
 		"Theme - Brogrammer",
 		"Toggle Words",
 		"Xdebug Client"
