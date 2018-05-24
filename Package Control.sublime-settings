@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"anaconda_rust",
 		"CodeFormatter",
 		"DocBlockr_with_update_capability",
 		"GitGutter",
@@ -12,6 +13,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PHPUnit Completions",
+		"Rust Enhanced",
 		"SFTP",
 		"SublimeCodeIntel",
 		"SublimeHighlight",
@@ -21,6 +23,7 @@
 		"Sublimerge 3",
 		"Theme - Brogrammer",
 		"Toggle Words",
+		"TOML",
 		"Xdebug Client"
 	],
 	"repositories":
