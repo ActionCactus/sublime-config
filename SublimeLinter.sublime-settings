@@ -1,0 +1,71 @@
+{
+        "debug": true,
+        "delay": 0.25,
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "lint_mode": "background",
+        "linters": {
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phplint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": ["codesize", "design", "unusedcode"]
+            }
+        },
+        // "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": [
+                "{PHP}",
+                "{phpmd}",
+                "{phplint}"
+            ]
+        },
+        // "shell_timeout": 10,
+        // "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "styles": [
+            {
+                "mark_style": "none",
+                "priority": 1,
+                "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+                "icon": "pointer",
+                "types": [
+                    "warning"
+                ]
+            },
+            {
+                "mark_style": "fill",
+                "priority": 1,
+                "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+                "icon": "triangle",
+                "types": [
+                    "error"
+                ]
+            }
+        ],
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "javascript (babel)": "javascript",
+            "magicpython": "python",
+            "php": "html",
+            "python django": "python",
+            "pythonimproved": "python"
+        },
+        // "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        // "tooltips": false,
+        // "warning_color": "DDB700",
+}
